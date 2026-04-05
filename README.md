@@ -78,21 +78,10 @@ The modern tech stack is shifting from "trust me" to "verify me." Rust and its d
 
 ---
 
-### 📺 Latest on YouTube
-
-<div align="center">
-  <!-- Replace 'YOUR_CHANNEL_ID' with your actual YouTube channel ID -->
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dgithinjibit&repo=youtube-activity&theme=tokyonight&hide_border=true&border_radius=10" alt="YouTube Activity" width="400px" />
-  </a>
-</div>
-
----
-
 ### 📬 Connect with the Future
 
 <div align="center">
-  <a href="https://twitter.com/dgithinjibit" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/danteub_inc" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/dgithinjibit" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:daniel@web4.io" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
@@ -100,5 +89,5 @@ The modern tech stack is shifting from "trust me" to "verify me." Rust and its d
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=100&section=footer&text=The%20Web%20is%20Alive&fontSize=20&fontColor=ffffff&fontAlignY=50&fontFamily=Inter&fontWeight=600" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=100&section=footer&text=The%20Web%20is%20Alive&fontSize=20&fontColor=ffffff&fontAlignY=50&fontFamily=Inter&fontWeight=600&animation=fadeIn" width="100%" />
 </div>
