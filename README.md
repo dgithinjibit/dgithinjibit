@@ -36,6 +36,15 @@ I'm **Daniel Githinji**, a developer dedicated to the next evolution of the inte
 
 ---
 
+### 🏆 Achievements & Certifications
+
+- **AI for Software Engineering**: Certificate of Participation & Achievement from Power Learn Project (March 2026)
+- **AWS Cloud Practitioner Training Series**: Selected for the program at Mount Kenya University (August 2025)
+- **Internet of Agents Hackathon**: Approved participant for the LabLab.ai Hackathon (August 2025)
+- **Kubernetes and Cloud Native Essential**: Completed course and passed final exam (April 2026)
+
+---
+
 ### 📊 GitHub Intelligence
 
 <div align="center">
@@ -59,11 +68,12 @@ I'm **Daniel Githinji**, a developer dedicated to the next evolution of the inte
 
 ---
 
-### 🎵 Current Frequency
+### 📺 Latest on YouTube
 
 <div align="center">
-  <a href="https://github.com/dgithinjibit">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dgithinjibit&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" alt="Spotify" width="400px" />
+  <!-- Replace 'YOUR_CHANNEL_ID' with your actual YouTube channel ID -->
+  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dgithinjibit&repo=youtube-activity&theme=tokyonight&hide_border=true&border_radius=10" alt="YouTube Activity" width="400px" />
   </a>
 </div>
 
