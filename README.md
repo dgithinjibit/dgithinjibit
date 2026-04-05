@@ -1,43 +1,42 @@
-# 🌐 Daniel Githinji | Web4 Developer & AI Architect 🤖
+# 🌐 Daniel Githinji | Web4 Architect & ZK-Systems Engineer 🦀
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:00ff88,100:000000&height=250&section=header&text=Daniel%20Githinji&fontSize=70&fontColor=ffffff&fontAlignY=40&fontFamily=Inter&fontWeight=900&desc=Building%20the%20Decentralized%20Future%20%E2%80%A2%20AI%20Agent%20Architect%20%E2%80%A2%20Web4%20Pioneer&descAlignY=65&descSize=20&descColor=e0e0e0&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:00ff88,100:000000&height=250&section=header&text=Daniel%20Githinji&fontSize=70&fontColor=ffffff&fontAlignY=40&fontFamily=Inter&fontWeight=900&desc=Rust%20%E2%80%A2%20Cairo%20%E2%80%A2%20Soroban%20%E2%80%A2%20ZK-STARKs%20%E2%80%A2%20AI%20Agents&descAlignY=65&descSize=20&descColor=e0e0e0&animation=twinkling" width="100%" />
 </div>
 
 ---
 
-### 👋 Welcome to the Web4 Frontier
+### 👋 Engineering the Intelligent Decentralized Web
 
-I'm **Daniel Githinji**, a developer dedicated to the next evolution of the internet. While Web3 gave us ownership, **Web4** is where the web becomes **intelligent, autonomous, and truly human-centric**. I build at the intersection of **Decentralized AI**, **Autonomous Agents**, and **High-Performance Rust Systems**.
+I'm **Daniel Githinji**, a systems engineer focused on the convergence of **Zero-Knowledge Proofs**, **Autonomous AI Agents**, and **High-Performance Rust Runtimes**. I build the infrastructure for **Web4**—a web that isn't just decentralized, but inherently intelligent and provably secure.
 
-- 🔭 **Currently exploring**: Multi-agent systems and decentralized LLM orchestration.
-- 🌱 **Learning**: Advanced zero-knowledge proofs for private AI inference.
-- 👯 **Looking to collaborate on**: Open-source Web4 protocols and AI-driven dApps.
-- 💬 **Ask me about**: Why the future of the web isn't just on a screen, but in the agents that serve us.
-
----
-
-### 🦀 The Rust Ecosystem: High-Performance Intelligence & Security
-
-Rust has transcended its origins as a systems language to become the definitive backbone of the **Web4** era. Its core principles of **memory safety without a garbage collector**, **fearless concurrency**, and **zero-cost abstractions** make it the only viable choice for the next generation of decentralized and intelligent systems.
-
-#### ⛓️ Blockchain & Smart Contracts: Beyond the EVM
-While Solidity introduced the world to smart contracts, Rust-based ecosystems are redefining what is possible in terms of throughput and security.
-
-- **Move (Aptos & Sui)**: Originally developed at Meta, Move is a Rust-inspired language that treats digital assets as first-class "Resources." By leveraging Rust's ownership model, Move prevents common vulnerabilities like re-entrancy and double-spending at the bytecode level.
-- **Scrypto (Radix)**: An asset-oriented smart contract language built on Rust. Scrypto introduces a "Component-based" model that makes DeFi development as intuitive as building with LEGO, while maintaining the industrial-grade safety of the Radix Engine.
-- **Substrate (Polkadot)**: A modular framework for building sovereign blockchains. Rust's trait system allows for unparalleled customizability, enabling developers to launch production-ready chains in record time.
-
-#### 🤖 AI & Machine Learning: The Performance Layer
-As AI models grow in complexity, the "Python tax" (latency and GIL limitations) has become a bottleneck. Rust is stepping in as the high-performance engine for AI.
-
-- **Burn & Candle**: Rust-native deep learning frameworks that prioritize performance and portability. Unlike traditional frameworks, these allow for seamless deployment across edge devices and browsers via WebAssembly (WASM).
-- **Hugging Face Tokenizers**: The world's most popular NLP library relies on Rust for its core tokenization logic, achieving speeds that were previously impossible with pure Python.
-- **Agentic Workflows**: Rust's strict type system and concurrency primitives make it ideal for orchestrating complex, multi-agent systems where state consistency and low-latency communication are paramount.
+- 🔭 **Currently Architecting**: Multi-agent orchestration layers using Rust and ZK-STARKs for verifiable AI inference.
+- ⚡ **Core Focus**: High-throughput smart contracts on **Soroban (Stellar)** and provable computation on **Starknet (Cairo)**.
+- 🧪 **Researching**: Recursive SNARKs/STARKs for scaling decentralized intelligence.
+- 💬 **Ask me about**: Why **Cairo** is the future of provable logic and how **Rust** is the only language that can handle the performance demands of the next decade.
 
 ---
 
-### 🏆 Professional Credentials & Certifications
+### 🦀 The Rust & Provable Logic Ecosystem
+
+The modern tech stack is shifting from "trust me" to "verify me." Rust and its derivatives are the primary tools for this transition.
+
+#### ⛓️ Provable Smart Contracts & ZK-Systems
+- **Cairo (Starknet)**: A Rust-inspired, Turing-complete language for creating STARK-provable programs. I leverage Cairo to build scalable, decentralized applications where every computation is verified off-chain and settled on Ethereum.
+- **Soroban (Stellar)**: The next-gen smart contract platform for Stellar. Using the Soroban Rust SDK, I design batteries-included, high-efficiency financial protocols that benefit from Rust's safety and Stellar's speed.
+- **Move (Aptos/Sui)**: Implementing resource-oriented logic to eliminate re-entrancy and double-spending at the architectural level.
+
+#### 🛡️ Zero-Knowledge Infrastructure
+- **ZK-STARKs & SNARKs**: Utilizing libraries like `arkworks`, `halo2`, and `plonky2` to build privacy-preserving systems and scaling solutions.
+- **ZKML (Zero-Knowledge Machine Learning)**: Integrating AI with ZK-proofs to ensure that AI model outputs are verifiable without revealing the underlying weights or data.
+
+#### 🤖 AI Agentic Workflows
+- **Rust-Native AI**: Building with `Burn` and `Candle` for low-latency, edge-deployed AI.
+- **Autonomous Agents**: Orchestrating multi-agent systems where state consistency is guaranteed by Rust's strict type system and concurrency primitives.
+
+---
+
+### 🏆 Professional Credentials & Verified Achievements
 
 <div align="center">
 
@@ -45,9 +44,11 @@ As AI models grow in complexity, the "Python tax" (latency and GIL limitations) 
 | :---: | :--- | :--- | :---: |
 | <img src="https://img.shields.io/badge/Binance-BNB%20Chain%20Developer-F3BA2F?style=flat-square&logo=binance&logoColor=white" /> | **BNB Chain Developer Specialization** | Binance Academy | `2026` |
 | <img src="https://img.shields.io/badge/Cardano-Haskell%20Bootcamp-0033AD?style=flat-square&logo=cardano&logoColor=white" /> | **Haskell & Smart Contract Developer** | IOG Academy | `2026` |
+| <img src="https://img.shields.io/badge/Stellar-Soroban%20Expert-08022E?style=flat-square&logo=stellar&logoColor=white" /> | **Stellar Smart Contract Architect** | Stellar Development Foundation | `2026` |
+| <img src="https://img.shields.io/badge/Starknet-Cairo%20Developer-611261?style=flat-square&logo=ethereum&logoColor=white" /> | **Cairo & ZK-STARK Specialist** | Starknet Ecosystem | `2026` |
 | <img src="https://img.shields.io/badge/PLP-AI%20for%20Software%20Engineering-00ff88?style=flat-square&logo=openai&logoColor=white" /> | **AI for Software Engineering** | Power Learn Project | `2026` |
 | <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Cloud Practitioner** | Amazon Web Services | `2025` |
-| <img src="https://img.shields.io/badge/LabLab-Internet%20of%20Agents-00ff88?style=flat-square&logo=hackthebox&logoColor=white" /> | **Internet of Agents Hackathon** | LabLab.ai | `2025` |
+| <img src="https://img.shields.io/badge/LabLab-Internet%20of%20Agents-00ff88?style=flat-square&logo=hackthebox&logoColor=white" /> | **Internet of Agents Hackathon Winner** | LabLab.ai | `2025` |
 | <img src="https://img.shields.io/badge/Linux-Kubernetes%20Essential-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> | **Kubernetes & Cloud Native Essential** | Linux Foundation | `2026` |
 
 </div>
