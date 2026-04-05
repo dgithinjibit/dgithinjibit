@@ -29,6 +29,10 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 - **ZKML**: Integrating AI with ZK-proofs to ensure verifiable model outputs without revealing underlying data.
 - **Rust-Native AI**: Building with Burn and Candle for low-latency, edge-deployed AI.
 
+#### Low-Level & Offensive Security
+- **C/C++ Systems**: Developing high-performance, low-level applications with a focus on memory management and hardware interaction.
+- **Offensive Security**: Researching low-level vulnerabilities, secure coding practices, and adversarial testing for robust system defense.
+
 ---
 
 ### Tech Stack
@@ -38,10 +42,11 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Chakra UI, Shadcn UI |
-| **Backend** | Python (FastAPI, Django), Node.js, Express, Rust (Axum, Rocket), REST APIs |
+| **Backend** | Python (FastAPI, Django), Node.js, Express, Rust (Axum, Rocket), C/C++, REST APIs |
 | **Blockchain** | Scrypto (Radix), Cairo (Starknet), Soroban (Stellar), Move, Solidity, Hedera, Near |
 | **AI & ML** | PyTorch, TensorFlow, Burn, Candle, Prompt Engineering, MLOps, Agentic Frameworks |
 | **Cloud & DevOps** | AWS (EC2, S3, Lambda), Docker, Kubernetes (KCNA), CI/CD Pipelines, Infrastructure as Code |
+| **Security** | Low-Level Offensive Security, OWASP Top 10, Secure Code Review, Red Team Testing |
 | **Tools** | Cursor, Replit, Claude Code, Windsurf, Figma, Adobe XD |
 
 </div>
@@ -93,7 +98,7 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 ### Connect with the Future
 
 <div align="center">
-  <a href="https://twitter.com/danteub_inc" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/Danterub_inc" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/dgithinjibit" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dgithinji331@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
