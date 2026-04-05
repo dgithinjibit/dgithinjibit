@@ -8,7 +8,7 @@
 
 ### 👋 Welcome to the Web4 Frontier
 
-I'm **Daniel Githinji**, a developer dedicated to the next evolution of the internet. While Web3 gave us ownership, **Web4** is where the web becomes **intelligent, autonomous, and truly human-centric**. I build at the intersection of **Decentralized AI**, **Autonomous Agents**, and **Hyper-Personalized Web Experiences**.
+I'm **Daniel Githinji**, a developer dedicated to the next evolution of the internet. While Web3 gave us ownership, **Web4** is where the web becomes **intelligent, autonomous, and truly human-centric**. I build at the intersection of **Decentralized AI**, **Autonomous Agents**, and **High-Performance Rust Systems**.
 
 - 🔭 **Currently exploring**: Multi-agent systems and decentralized LLM orchestration.
 - 🌱 **Learning**: Advanced zero-knowledge proofs for private AI inference.
@@ -17,31 +17,40 @@ I'm **Daniel Githinji**, a developer dedicated to the next evolution of the inte
 
 ---
 
-### 🛠️ The Web4 Stack
+### 🦀 The Rust Ecosystem: High-Performance Intelligence & Security
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Web4-Autonomous-00ff88?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Decentralized-AI-00ff88?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic-Workflows-00ff88?style=for-the-badge&logo=githubactions&logoColor=white" />
-</div>
+Rust has transcended its origins as a systems language to become the definitive backbone of the **Web4** era. Its core principles of **memory safety without a garbage collector**, **fearless concurrency**, and **zero-cost abstractions** make it the only viable choice for the next generation of decentralized and intelligent systems.
 
-<br/>
+#### ⛓️ Blockchain & Smart Contracts: Beyond the EVM
+While Solidity introduced the world to smart contracts, Rust-based ecosystems are redefining what is possible in terms of throughput and security.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Intelligence** | LLMs (GPT-4, Claude 3.5, Llama 3), LangChain, AutoGPT, Agentic Frameworks |
-| **Decentralization** | IPFS, Arweave, Ethereum, Solana, Zero-Knowledge Proofs (ZKP) |
-| **Frontend** | Next.js 14, Three.js (Immersive Web), Tailwind CSS, WebAssembly |
-| **Backend** | Rust, Go, Python (FastAPI), Decentralized Databases (OrbitDB) |
+- **Move (Aptos & Sui)**: Originally developed at Meta, Move is a Rust-inspired language that treats digital assets as first-class "Resources." By leveraging Rust's ownership model, Move prevents common vulnerabilities like re-entrancy and double-spending at the bytecode level.
+- **Scrypto (Radix)**: An asset-oriented smart contract language built on Rust. Scrypto introduces a "Component-based" model that makes DeFi development as intuitive as building with LEGO, while maintaining the industrial-grade safety of the Radix Engine.
+- **Substrate (Polkadot)**: A modular framework for building sovereign blockchains. Rust's trait system allows for unparalleled customizability, enabling developers to launch production-ready chains in record time.
+
+#### 🤖 AI & Machine Learning: The Performance Layer
+As AI models grow in complexity, the "Python tax" (latency and GIL limitations) has become a bottleneck. Rust is stepping in as the high-performance engine for AI.
+
+- **Burn & Candle**: Rust-native deep learning frameworks that prioritize performance and portability. Unlike traditional frameworks, these allow for seamless deployment across edge devices and browsers via WebAssembly (WASM).
+- **Hugging Face Tokenizers**: The world's most popular NLP library relies on Rust for its core tokenization logic, achieving speeds that were previously impossible with pure Python.
+- **Agentic Workflows**: Rust's strict type system and concurrency primitives make it ideal for orchestrating complex, multi-agent systems where state consistency and low-latency communication are paramount.
 
 ---
 
-### 🏆 Achievements & Certifications
+### 🏆 Professional Credentials & Certifications
 
-- **AI for Software Engineering**: Certificate of Participation & Achievement from Power Learn Project (March 2026)
-- **AWS Cloud Practitioner Training Series**: Selected for the program at Mount Kenya University (August 2025)
-- **Internet of Agents Hackathon**: Approved participant for the LabLab.ai Hackathon (August 2025)
-- **Kubernetes and Cloud Native Essential**: Completed course and passed final exam (April 2026)
+<div align="center">
+
+| Badge | Certification / Award | Issuer | Year |
+| :---: | :--- | :--- | :---: |
+| <img src="https://img.shields.io/badge/Binance-BNB%20Chain%20Developer-F3BA2F?style=flat-square&logo=binance&logoColor=white" /> | **BNB Chain Developer Specialization** | Binance Academy | `2026` |
+| <img src="https://img.shields.io/badge/Cardano-Haskell%20Bootcamp-0033AD?style=flat-square&logo=cardano&logoColor=white" /> | **Haskell & Smart Contract Developer** | IOG Academy | `2026` |
+| <img src="https://img.shields.io/badge/PLP-AI%20for%20Software%20Engineering-00ff88?style=flat-square&logo=openai&logoColor=white" /> | **AI for Software Engineering** | Power Learn Project | `2026` |
+| <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Cloud Practitioner** | Amazon Web Services | `2025` |
+| <img src="https://img.shields.io/badge/LabLab-Internet%20of%20Agents-00ff88?style=flat-square&logo=hackthebox&logoColor=white" /> | **Internet of Agents Hackathon** | LabLab.ai | `2025` |
+| <img src="https://img.shields.io/badge/Linux-Kubernetes%20Essential-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> | **Kubernetes & Cloud Native Essential** | Linux Foundation | `2026` |
+
+</div>
 
 ---
 
