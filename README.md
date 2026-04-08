@@ -53,6 +53,32 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 
 ---
 
+### Dynamic Tech Stack (Live)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgithinjibit&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=8E4585&text_color=ffffff&bg_color=1a1a1a" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dgithinjibit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&title_color=8E4585&icon_color=8E4585&text_color=ffffff&bg_color=1a1a1a" width="48%" />
+</div>
+
+---
+
 ### Professional Credentials & Verified Achievements
 
 <div align="center">
@@ -73,13 +99,6 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 ---
 
 ### GitHub Intelligence
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dgithinjibit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&title_color=8E4585&icon_color=8E4585&text_color=ffffff&bg_color=1a1a1a" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgithinjibit&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=8E4585&text_color=ffffff&bg_color=1a1a1a" width="48%" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dgithinjibit&theme=tokyonight&hide_border=true&border_radius=10&stroke=8E4585&ring=8E4585&fire=8E4585&currStreakLabel=8E4585" width="100%" />
