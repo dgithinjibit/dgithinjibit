@@ -93,6 +93,9 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 | <img src="https://img.shields.io/badge/AMD-AI%20Academy-8E4585?style=flat-square&logo=amd&logoColor=white" /> | **AMD Developer Program** | AMD AI Academy | 2026 |
 | <img src="https://img.shields.io/badge/Andela-KCNA-8E4585?style=flat-square&logo=kubernetes&logoColor=white" /> | **Kubernetes Cloud Native Associate (KCNA)** | Andela Learning Community | 2026 |
 | <img src="https://img.shields.io/badge/AWS-Cloud-8E4585?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Cloud Practitioner** | Amazon Web Services | 2025 |
+| <img src="https://img.shields.io/badge/Sololearn-Agentic%20Workflows-8E4585?style=flat-square&logo=sololearn&logoColor=white" /> | **Agentic Workflows Specialist** | Sololearn | 2026 |
+| <img src="https://img.shields.io/badge/Coursera-Project%20Initiation-8E4585?style=flat-square&logo=coursera&logoColor=white" /> | **Project Initiation: Starting a Successful Project** | Coursera | 2026 |
+| <img src="https://img.shields.io/badge/Exercism-Rust%20Track-8E4585?style=flat-square&logo=exercism&logoColor=white" /> | **Rust Track Completion** | Exercism | 2024 |
 
 </div>
 
