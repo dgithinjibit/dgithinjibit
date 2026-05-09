@@ -89,7 +89,7 @@ n<!-- TECHSTACK:START -->
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dgithinjibit&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=8E4585&text_color=ffffff&bg_color=1a1a1a" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dgithinjibit&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=8E4585&text_color=ffffff&bg_color=1a1a1a" width="48%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dgithinjibit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&title_color=8E4585&icon_color=8E4585&text_color=ffffff&bg_color=1a1a1a" width="48%" />
 </div>
 
