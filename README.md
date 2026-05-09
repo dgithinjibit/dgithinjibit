@@ -1,14 +1,14 @@
 # Daniel Githinji | Web4 Architect & Full-Stack Systems Engineer
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B36,70:8E4585,100:2D1B36&height=250&section=header&text=Daniel%20Githinji&fontSize=70&fontColor=ffffff&fontAlignY=40&fontFam[...]
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B36,70:8E4585,100:2D1B36&height=250&section=header&text=Daniel%20Githinji&fontSize=70&fontColor=ffffff&fontAlignY=40&fontFamily=Cambria" alt="waving" />
 </div>
 
 ---
 
 ### Engineering the Intelligent Decentralized Web
 
-I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Knowledge Proofs, Autonomous AI Agents, and High-Performance Rust Runtimes. I build the infrastructure for Web4—a web [...]
+I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Knowledge Proofs, Autonomous AI Agents, and High-Performance Rust Runtimes. I build the infrastructure for Web4—a web where computation is verifiable, intelligence is autonomous, and trust is cryptographic.
 
 - **Currently Architecting**: Multi-agent orchestration layers using Rust and ZK-STARKs for verifiable AI inference.
 - **Core Focus**: High-throughput smart contracts on Soroban (Stellar) and provable computation on Starknet (Cairo).
@@ -64,19 +64,19 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/PLpgSQL-grey?style=for-the-badge&logo=plpgsql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-grey?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-grey?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 </div>
 <!-- TECHSTACK:END -->
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dgithinjibit&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true[...]
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dgithinjibit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&title_color=8E4585&ic[...]
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dgithinjibit&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=8E4585&icon_color=8E4585" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dgithinjibit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&title_color=8E4585&icon_color=8E4585" alt="GitHub Stats" />
 </div>
 
 ---
@@ -93,10 +93,10 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 | <img src="https://img.shields.io/badge/Starknet-Cairo-8E4585?style=flat-square&logo=ethereum&logoColor=white" /> | **Cairo & ZK-STARK Specialist** | Starknet Ecosystem | 2026 |
 | <img src="https://img.shields.io/badge/PLP-Academy-8E4585?style=flat-square&logo=openai&logoColor=white" /> | **Advanced AI for Software Engineering** | Power Learn Project | 2026 |
 | <img src="https://img.shields.io/badge/AMD-AI%20Academy-8E4585?style=flat-square&logo=amd&logoColor=white" /> | **AMD Developer Program** | AMD AI Academy | 2026 |
-| <img src="https://img.shields.io/badge/Andela-KCNA-8E4585?style=flat-square&logo=kubernetes&logoColor=white" /> | **Kubernetes Cloud Native Associate (KCNA)** | Andela Learning Community | 2026[...]
+| <img src="https://img.shields.io/badge/Andela-KCNA-8E4585?style=flat-square&logo=kubernetes&logoColor=white" /> | **Kubernetes Cloud Native Associate (KCNA)** | Andela Learning Community | 2026 |
 | <img src="https://img.shields.io/badge/AWS-Cloud-8E4585?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Cloud Practitioner** | Amazon Web Services | 2025 |
 | <img src="https://img.shields.io/badge/Sololearn-Agentic%20Workflows-8E4585?style=flat-square&logo=sololearn&logoColor=white" /> | **Agentic Workflows Specialist** | Sololearn | 2026 |
-| <img src="https://img.shields.io/badge/Coursera-Project%20Initiation-8E4585?style=flat-square&logo=coursera&logoColor=white" /> | **Project Initiation: Starting a Successful Project** | Courser[...]
+| <img src="https://img.shields.io/badge/Coursera-Project%20Initiation-8E4585?style=flat-square&logo=coursera&logoColor=white" /> | **Project Initiation: Starting a Successful Project** | Coursera | 2025 |
 | <img src="https://img.shields.io/badge/Exercism-Rust%20Track-8E4585?style=flat-square&logo=exercism&logoColor=white" /> | **Rust Track Completion** | Exercism | 2024 |
 
 </div>
@@ -106,7 +106,7 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 ### GitHub Intelligence
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dgithinjibit&theme=tokyonight&hide_border=true&border_radius=10&stroke=8E4585&ring=8E4585&fire=8E4585&currStreakLabel=8E4585" wid[...]
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dgithinjibit&theme=tokyonight&hide_border=true&border_radius=10&stroke=8E4585&ring=8E4585&fire=8E4585&currStreakLabel=8E4585" alt="GitHub Streak" width="49%" />
 </div>
 
 ---
@@ -130,5 +130,5 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E4585,100:2D1B36&height=100&section=footer&text=The%20Web%20is%20Alive&fontSize=20&fontColor=ffffff&fontAlignY=50&fontFamily[...]
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E4585,100:2D1B36&height=100&section=footer&text=The%20Web%20is%20Alive&fontSize=20&fontColor=ffffff&fontAlignY=50&fontFamily=Cambria" alt="waving" />
 </div>
