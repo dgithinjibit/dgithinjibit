@@ -75,7 +75,7 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dgithinjibit&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=8E4585&icon_color=8E4585" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dgithinjibit&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=8E4585&icon_color=8E4585" alt="Top Languages" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dgithinjibit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&title_color=8E4585&icon_color=8E4585" alt="GitHub Stats" />
 </div>
 
