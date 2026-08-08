@@ -25,7 +25,7 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 - **Move (Aptos/Sui)**: Implementing resource-oriented logic to eliminate re-entrancy and double-spending.
 
 #### AI & Machine Learning
-- **Agentic Workflows**: Orchestrating multi-agent systems where state consistency is guaranteed by Rust's strict type system.
+- **MeTTa Agentic Workflows**: Orchestrating multi-agent systems where state consistency is guaranteed by Rust's strict type system.
 - **ZKML**: Integrating AI with ZK-proofs to ensure verifiable model outputs without revealing underlying data.
 - **Rust-Native AI**: Building with Burn and Candle for low-latency, edge-deployed AI.
 
