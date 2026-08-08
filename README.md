@@ -41,13 +41,13 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Chakra UI, Shadcn UI |
-| **Backend** | Python (FastAPI, Django), Node.js, Express, Rust (Axum, Rocket), C/C++, REST APIs |
+| **Frontend** | HTML5, CSS3, Tailwind CSS, TypeScript, React, web3.js, Chakra UI, Shadcn UI |
+| **Backend** | Python (FastAPI, Django), Rust (Axum, Rocket), REST APIs |
 | **Blockchain** | Scrypto (Radix), Cairo (Starknet), Soroban (Stellar), Move, Solidity, Hedera, Near |
-| **AI & ML** | PyTorch, TensorFlow, Burn, Candle, Prompt Engineering, MLOps, Agentic Frameworks |
+| **AI & ML** | MeTTa, PyTorch, TensorFlow, Burn, Candle, Prompt Engineering, MLOps, Agentic Frameworks |
 | **Cloud & DevOps** | AWS (EC2, S3, Lambda), Docker, Kubernetes (KCNA), CI/CD Pipelines, Infrastructure as Code |
-| **Security** | Low-Level Offensive Security, OWASP Top 10, Secure Code Review, Red Team Testing |
-| **Tools** | Cursor, Replit, Claude Code, Windsurf, Figma, Adobe XD |
+| **Security** | Low-Level Offensive SoC analyst, Secure Code Review, Blue Team Testing |
+| **Tools** | Cursor, Vs Code, Claude Code, Windsurf, Figma, Kiro Code,  |
 
 </div>
 
