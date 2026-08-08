@@ -297,8 +297,8 @@ def main():
                 flags=re.DOTALL
             )
         
-        # Update top-langs card URL
-        if "api/top-langs/?username=dgithinjibit" in new_readme:
+        # Update top-langs card URL safely without duplication
+        if "api/top-langs/?username=dgithinjibit" in new_readme and "hide=" not in new_readme:
             new_readme = new_readme.replace(
                 "api/top-langs/?username=dgithinjibit",
                 "api/top-langs/?username=dgithinjibit&hide=Jupyter%20Notebook"
