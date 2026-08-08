@@ -8,11 +8,11 @@
 
 ### Engineering the Intelligent Decentralized Web
 
-I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Knowledge Proofs, Autonomous AI Agents, and High-Performance Rust Runtimes. I build the infrastructure for Web4—a web where computation is verifiable, intelligence is autonomous, and trust is cryptographic.
+I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Knowledge Proofs, Quantum Computing Systems, Autonomous AI Agents, and High-Performance Rust Runtimes. I build the infrastructure for Web4—a web where computation is verifiable, intelligence is autonomous, and trust is cryptographic.
 
-- **Currently Architecting**: Multi-agent orchestration layers using Rust and ZK-STARKs for verifiable AI inference.
-- **Core Focus**: High-throughput smart contracts on Soroban (Stellar) and provable computation on Starknet (Cairo).
-- **Researching**: Recursive SNARKs/STARKs for scaling decentralized intelligence.
+- **Currently Architecting**: Multi-agent orchestration layers and quantum-resistant cryptographic primitives using Rust and ZK-STARKs.
+- **Core Focus**: High-throughput smart contracts on Soroban (Stellar), provable computation on Starknet (Cairo), and next-gen AI systems.
+- **Researching**: Recursive SNARKs/STARKs and quantum computing algorithms for scaling decentralized intelligence.
 - **Technical Philosophy**: Moving from "trust me" to "verify me" through rigorous systems engineering and provable logic.
 
 ---
@@ -24,10 +24,10 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 - **Soroban (Stellar)**: Designing high-efficiency financial protocols using the Soroban Rust SDK.
 - **Move (Aptos/Sui)**: Implementing resource-oriented logic to eliminate re-entrancy and double-spending.
 
-#### AI & Machine Learning
+#### AI & Machine Learning / Quantum Computing
+- **Quantum Computing Systems**: Researching quantum algorithms, qubit simulation, and quantum-classical hybrid architectures.
 - **MeTTa Agentic Workflows**: Orchestrating multi-agent systems where state consistency is guaranteed by Rust's strict type system.
-- **ZKML**: Integrating AI with ZK-proofs to ensure verifiable model outputs without revealing underlying data.
-- **Rust-Native AI**: Building with Burn and Candle for low-latency, edge-deployed AI.
+- **ZKML & AWS AI Builder**: Integrating advanced cloud-scale AI architectures and zero-knowledge proofs for verifiable model outputs.
 
 #### Low-Level & Offensive Security
 - **C/C++ Systems**: Developing high-performance, low-level applications with a focus on memory management and hardware interaction.
@@ -44,10 +44,10 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 | **Frontend** | HTML5, CSS3, Tailwind CSS, TypeScript, React, web3.js, Chakra UI, Shadcn UI |
 | **Backend** | Python (FastAPI, Django), Rust (Axum, Rocket), REST APIs |
 | **Blockchain** | Scrypto (Radix), Cairo (Starknet), Soroban (Stellar), Move, Solidity, Hedera, Near |
-| **AI & ML** | MeTTa, PyTorch, TensorFlow, Burn, Candle, Prompt Engineering, MLOps, Agentic Frameworks |
-| **Cloud & DevOps** | AWS (EC2, S3, Lambda), Docker, Kubernetes (KCNA), CI/CD Pipelines, Infrastructure as Code |
-| **Security** | Low-Level Offensive SoC analyst, Secure Code Review, Blue Team Testing |
-| **Tools** | Cursor, Vs Code, Claude Code, Windsurf, Figma, Kiro Code,  |
+| **AI, Quantum & ML** | Quantum Computing, AWS AI Builder, MeTTa, PyTorch, TensorFlow, Burn, Candle, Agentic Frameworks |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda, AI Builder), Docker, Kubernetes (KCNA), CI/CD Pipelines |
+| **Security** | Low-Level Offensive SoC Analyst, Secure Code Review, Blue Team Testing |
+| **Tools** | Cursor, VS Code, Claude Code, Windsurf, Figma |
 
 </div>
 
@@ -62,20 +62,17 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PLpgSQL-grey?style=for-the-badge&logo=plpgsql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-grey?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-grey?style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 <!-- TECHSTACK:END -->
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dgithinjibit&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=8E4585&icon_color=8E4585" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dgithinjibit&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=8E4585&icon_color=8E4585" alt="Top Languages" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dgithinjibit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&title_color=8E4585&icon_color=8E4585" alt="GitHub Stats" />
 </div>
 
@@ -87,6 +84,8 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 
 | Badge | Certification / Award | Issuer | Year |
 | :---: | :--- | :--- | :---: |
+| <img src="https://img.shields.io/badge/AWS-AI%20Builder-8E4585?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS AI Builder Certification** | Amazon Web Services | 2026 |
+| <img src="https://img.shields.io/badge/Quantum-Computing-8E4585?style=flat-square&logo=qiskit&logoColor=white" /> | **Quantum Computing Certification** | Applied Quantum Systems | 2026 |
 | <img src="https://img.shields.io/badge/Binance-Academy-8E4585?style=flat-square&logo=binance&logoColor=white" /> | **BNB Chain Developer Specialization** | Binance Academy | 2026 |
 | <img src="https://img.shields.io/badge/Cardano-IOG-8E4585?style=flat-square&logo=cardano&logoColor=white" /> | **Haskell & Smart Contract Developer** | IOG Academy | 2026 |
 | <img src="https://img.shields.io/badge/Stellar-Soroban-8E4585?style=flat-square&logo=stellar&logoColor=white" /> | **Stellar Smart Contract Architect** | Stellar Development Foundation | 2026 |
@@ -94,7 +93,6 @@ I am Daniel Githinji, a systems engineer focused on the convergence of Zero-Know
 | <img src="https://img.shields.io/badge/PLP-Academy-8E4585?style=flat-square&logo=openai&logoColor=white" /> | **Advanced AI for Software Engineering** | Power Learn Project | 2026 |
 | <img src="https://img.shields.io/badge/AMD-AI%20Academy-8E4585?style=flat-square&logo=amd&logoColor=white" /> | **AMD Developer Program** | AMD AI Academy | 2026 |
 | <img src="https://img.shields.io/badge/Andela-KCNA-8E4585?style=flat-square&logo=kubernetes&logoColor=white" /> | **Kubernetes Cloud Native Associate (KCNA)** | Andela Learning Community | 2026 |
-| <img src="https://img.shields.io/badge/AWS-Cloud-8E4585?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Cloud Practitioner** | Amazon Web Services | 2025 |
 | <img src="https://img.shields.io/badge/Sololearn-Agentic%20Workflows-8E4585?style=flat-square&logo=sololearn&logoColor=white" /> | **Agentic Workflows Specialist** | Sololearn | 2026 |
 | <img src="https://img.shields.io/badge/Coursera-Project%20Initiation-8E4585?style=flat-square&logo=coursera&logoColor=white" /> | **Project Initiation: Starting a Successful Project** | Coursera | 2025 |
 | <img src="https://img.shields.io/badge/Exercism-Rust%20Track-8E4585?style=flat-square&logo=exercism&logoColor=white" /> | **Rust Track Completion** | Exercism | 2024 |
