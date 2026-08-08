@@ -297,11 +297,14 @@ def main():
                 flags=re.DOTALL
             )
         
-        # Update top-langs card URL safely without duplication
-        if "api/top-langs/?username=dgithinjibit" in new_readme and "hide=" not in new_readme:
-            new_readme = new_readme.replace(
-                "api/top-langs/?username=dgithinjibit",
-                "api/top-langs/?username=dgithinjibit&hide=Jupyter%20Notebook"
+        # Ensure top-langs uses a clean URL with exactly one hide parameter
+        if "api/top-langs/?username=dgithinjibit" in new_readme:
+            # Replace any variant of top-langs URL with the clean version
+            import re
+            new_readme = re.sub(
+                r'https://github-readme-stats-eight-theta\.vercel\.app/api/top-langs/\?[^\s"]+',
+                'https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dgithinjibit&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=8E4585&icon_color=8E4585',
+                new_readme
             )
         
         with open("README.md", "w") as f:
