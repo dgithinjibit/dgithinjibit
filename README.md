@@ -40,6 +40,7 @@ TypeScript · AI
 06 — DEDECEL
 Privacy-preserving vital-statistics prototype
 Rust · Cairo · ZK
+
 ---
 
 
