@@ -31,6 +31,7 @@ I am a software engineer based in Nairobi, Kenya, focused on building reliable, 
 - **Stellar (Soroban)**: Soroban Rust SDK smart contracts and DApps.
 - **Starknet (Cairo)**: STARK-provable programs and privacy-first dApps.
 - **Solana**: SPL token programs and on-chain applications.
+- **Scrypto**: Currently learning it.
 
 #### AI & Machine Learning
 - **LLM Agents**: MCP servers, agentic workflows, and multi-agent orchestration.
