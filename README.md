@@ -17,27 +17,27 @@ I build:
 
 - **Currently Working On**:
 
-01 — Project Nzi
+01 — Project Nzi -
 Autonomous edge-agent/swarm research platform
 Rust · symbolic AI · ZK · simulation
 
-02 — Door Hinge
+02 — Door Hinge -
 Security primitives for AI-agent isolation
 Rust · Landlock · seccomp · Linux namespaces
 
-03 — Rustman
+03 — Rustman - 
 Fast API client for developers
 Rust · REST · GraphQL · gRPC
 
-04 — PolyPulse
+04 — PolyPulse - 
 Prediction-market application
 Rust · Stellar · TypeScript
 
-05 — Ascendra
+05 — Ascendra - 
 AI education platform for Kenyan CBC
 TypeScript · AI
 
-06 — DEDECEL
+06 — DEDECEL -
 Privacy-preserving vital-statistics prototype
 Rust · Cairo · ZK
 
