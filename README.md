@@ -8,36 +8,39 @@
 
 ### Software Engineer | Systems & Full-Stack Development
 
-I am a software engineer based in Nairobi, Kenya, focused on building reliable, well-architected software in Rust, Python, and TypeScript. I work across systems programming, AI/ML applications, and blockchain development — with a particular interest in verifiable computation and agent-based systems.
+I build:
+• AI-agent infrastructure
+• Rust systems & developer tools
+• security boundaries for autonomous software
+• applied AI products
 
-- **Currently Working On**: Project-Nzi, a decentralized AI agent swarm system (Rust + MeTTa), with an engineering-first development process documented through Architecture Decision Records and phased branches.
-- **Core Focus**: Systems programming in Rust, backend services, and deploying real products — not just prototypes.
-- **Building for Impact**: Localized tools for African contexts, from a Bitcoin literacy bot for kids to prediction markets on Stellar and accessibility-first education platforms.
-- **Growth Mindset**: I openly use AI pair-programming (Claude Code, Cursor) as part of my workflow and label it in my commit history. My goal is to pair AI speed with deep, hand-written fundamentals in systems programming.
 
+- **Currently Working On**: 
+01 — Project Nzi
+Autonomous edge-agent/swarm research platform
+Rust · symbolic AI · ZK · simulation
+
+02 — Door Hinge
+Security primitives for AI-agent isolation
+Rust · Landlock · seccomp · Linux namespaces
+
+03 — Rustman
+Fast API client for developers
+Rust · REST · GraphQL · gRPC
+
+04 — PolyPulse
+Prediction-market application
+Rust · Stellar · TypeScript
+
+05 — Ascendra
+AI education platform for Kenyan CBC
+TypeScript · AI
+
+06 — DEDECEL
+Privacy-preserving vital-statistics prototype
+Rust · Cairo · ZK
 ---
 
-### Technical Focus Areas
-
-#### Systems Programming
-- **Rust**: Active daily use — building an API client (`rustman`), security sandboxing subsystems (`pipelock-rs`), and working through hands-on projects. Currently deepening my knowledge of concurrency, the borrow checker, and memory management.
-- **C/C++**: Low-level application development with an emphasis on memory management and hardware interaction.
-
-#### Backend & Web Development
-- **Python**: FastAPI, Django, data engineering, and ML pipelines.
-- **TypeScript/JavaScript**: React, Next.js, Tailwind CSS, and full-stack application development.
-
-#### Blockchain & Web3
-- **Stellar (Soroban)**: Soroban Rust SDK smart contracts and DApps.
-- **Starknet (Cairo)**: STARK-provable programs and privacy-first dApps.
-- **Solana**: SPL token programs and on-chain applications.
-- **Scrypto**: Currently learning it.
-
-#### AI & Machine Learning
-- **LLM Agents**: MCP servers, agentic workflows, and multi-agent orchestration.
-- **ML**: PyTorch, Candle, practical ML engineering from coursework and personal projects.
-
----
 
 ### Tech Stack
 
@@ -54,29 +57,6 @@ I am a software engineer based in Nairobi, Kenya, focused on building reliable, 
 | **Tools** | Cursor, VS Code, Git (branches, ADRs, phased releases) |
 
 </div>
-
----
-
-### How I Work
-
-Transparency matters to me, so here is how my development process actually runs:
-
-- **AI-Assisted Development**: A significant portion of my code is written with AI pair-programmers (Claude Code). I treat the AI as a junior colleague — I design the architecture, review every generated file, and own all bugs. Commit trailers like `Co-Authored-By` are left intact deliberately.
-- **Engineering Rigor**: I use feature branches, Architecture Decision Records (ADRs), phased rollouts, and structured commit messages. My [Project-Nzi](https://github.com/dgithinjibit/Project-Nzi/tree/phase-0-foundation) repository documents this workflow end-to-end.
-- **Continuous Learning**: I maintain an active learning journal at [dgithinjibit.github.io](https://dgithinjibit.github.io) and complete hands-on courses in Rust, web3, systems design, and ML engineering.
-
----
-
-### Selected Work
-
-| Repository | What It Is |
-| :--- | :--- |
-| [Project-Nzi](https://github.com/dgithinjibit/Project-Nzi) | Decentralized AI agent swarm system — Rust reflex loop + MeTTa symbolic brain, with full ADR documentation |
-| [rustman](https://github.com/dgithinjibit/rustman) | A fast, memory-safe HTTP API client written in Rust |
-| [polypulse](https://github.com/dgithinjibit/polypulse) | Prediction markets built on Stellar |
-| [DeBiCeL](https://github.com/dgithinjibit/DeBiCeL) | Decentralized birth certificate ledger concept with dual-key signatures |
-| [bitcoin-folktales-for-kids](https://github.com/dgithinjibit/bitcoin-folktales-for-kids) | AI agent teaching African children about Bitcoin through storytelling |
-| [Heshima_Care](https://github.com/dgithinjibit/Heshima_Care) | Accessibility-first care platform |
 
 ---
 
