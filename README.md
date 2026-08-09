@@ -63,7 +63,7 @@ Transparency matters to me, so here is how my development process actually runs:
 
 - **AI-Assisted Development**: A significant portion of my code is written with AI pair-programmers (Claude Code). I treat the AI as a junior colleague — I design the architecture, review every generated file, and own all bugs. Commit trailers like `Co-Authored-By` are left intact deliberately.
 - **Engineering Rigor**: I use feature branches, Architecture Decision Records (ADRs), phased rollouts, and structured commit messages. My [Project-Nzi](https://github.com/dgithinjibit/Project-Nzi/tree/phase-0-foundation) repository documents this workflow end-to-end.
-- **Continuous Learning**: I maintain an active learning journal at [dgithinjibit.github.io](https://dgithinjibit.github.io) and complete hands-on courses in Rust, systems design, and ML engineering.
+- **Continuous Learning**: I maintain an active learning journal at [dgithinjibit.github.io](https://dgithinjibit.github.io) and complete hands-on courses in Rust, web3, systems design, and ML engineering.
 
 ---
 
