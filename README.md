@@ -15,7 +15,8 @@ I build:
 • applied AI products
 
 
-- **Currently Working On**: 
+- **Currently Working On**:
+-  
 01 — Project Nzi
 Autonomous edge-agent/swarm research platform
 Rust · symbolic AI · ZK · simulation
